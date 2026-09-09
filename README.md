@@ -1,4 +1,4 @@
-# Data Dogs
+# ISpyGameDatabase
 
 Data Dogs is a MySQL database project created for my database class. Our group used game data from IGDB and organized it into a relational database containing games, developers, platforms, languages, categories, users, and wishlists.
 
